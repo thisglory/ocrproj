@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/ocrproj/static/css/main.6bd1df31.chunk.css",
-    "main.js": "/ocrproj/static/js/main.397efa90.chunk.js",
-    "main.js.map": "/ocrproj/static/js/main.397efa90.chunk.js.map",
-    "runtime-main.js": "/ocrproj/static/js/runtime-main.375433b6.js",
-    "runtime-main.js.map": "/ocrproj/static/js/runtime-main.375433b6.js.map",
-    "static/js/2.56030176.chunk.js": "/ocrproj/static/js/2.56030176.chunk.js",
-    "static/js/2.56030176.chunk.js.map": "/ocrproj/static/js/2.56030176.chunk.js.map",
-    "static/js/3.469097e8.chunk.js": "/ocrproj/static/js/3.469097e8.chunk.js",
-    "static/js/3.469097e8.chunk.js.map": "/ocrproj/static/js/3.469097e8.chunk.js.map",
+    "main.css": "/ocrproj/static/css/main.ff73749b.chunk.css",
+    "main.js": "/ocrproj/static/js/main.d06364f9.chunk.js",
+    "main.js.map": "/ocrproj/static/js/main.d06364f9.chunk.js.map",
+    "runtime-main.js": "/ocrproj/static/js/runtime-main.9f902f18.js",
+    "runtime-main.js.map": "/ocrproj/static/js/runtime-main.9f902f18.js.map",
+    "static/js/2.d9bcb3d5.chunk.js": "/ocrproj/static/js/2.d9bcb3d5.chunk.js",
+    "static/js/2.d9bcb3d5.chunk.js.map": "/ocrproj/static/js/2.d9bcb3d5.chunk.js.map",
+    "static/js/3.500cd91a.chunk.js": "/ocrproj/static/js/3.500cd91a.chunk.js",
+    "static/js/3.500cd91a.chunk.js.map": "/ocrproj/static/js/3.500cd91a.chunk.js.map",
     "6edf22c7883da78820dcc980006a58e6.js": "/ocrproj/6edf22c7883da78820dcc980006a58e6.js",
     "6edf22c7883da78820dcc980006a58e6.js.LICENSE.txt": "/ocrproj/6edf22c7883da78820dcc980006a58e6.js.LICENSE.txt",
     "index.html": "/ocrproj/index.html",
-    "static/css/main.6bd1df31.chunk.css.map": "/ocrproj/static/css/main.6bd1df31.chunk.css.map",
-    "static/js/2.56030176.chunk.js.LICENSE.txt": "/ocrproj/static/js/2.56030176.chunk.js.LICENSE.txt",
+    "static/css/main.ff73749b.chunk.css.map": "/ocrproj/static/css/main.ff73749b.chunk.css.map",
+    "static/js/2.d9bcb3d5.chunk.js.LICENSE.txt": "/ocrproj/static/js/2.d9bcb3d5.chunk.js.LICENSE.txt",
     "static/media/icon_add_item.svg": "/ocrproj/static/media/icon_add_item.d2ef0425.svg",
     "static/media/icon_add_process.svg": "/ocrproj/static/media/icon_add_process.f73162a2.svg",
     "static/media/icon_delete_process.svg": "/ocrproj/static/media/icon_delete_process.94d578bf.svg",
     "static/media/logo_otos.103138a0.svg": "/ocrproj/static/media/logo_otos.103138a0.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.375433b6.js",
-    "static/js/2.56030176.chunk.js",
-    "static/css/main.6bd1df31.chunk.css",
-    "static/js/main.397efa90.chunk.js"
+    "static/js/runtime-main.9f902f18.js",
+    "static/js/2.d9bcb3d5.chunk.js",
+    "static/css/main.ff73749b.chunk.css",
+    "static/js/main.d06364f9.chunk.js"
   ]
 }
